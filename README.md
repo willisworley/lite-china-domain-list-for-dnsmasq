@@ -1,3 +1,8 @@
+最近碰到个问题： en.wikipedia.org 之前中国能访问，就肯定没污染了。但现在dns污染了，如果在china list里的话，访问不了
+
+所以维护一个轻量化，常见的china 域名list 就可以了。其他的走openDNS
+
+
 dnsmasq-china-list
 ==================
 
